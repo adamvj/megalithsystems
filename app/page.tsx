@@ -46,7 +46,7 @@ export default function Home() {
                 <h1 className="text-4xl font-bold tracking-tighter sm:text-5xl md:text-6xl lg:text-7xl/none text-white">
                   Megalith Systems
                 </h1>
-                <p className="text-xl font-semibold text-amber-400">Revolutionizing Business with AI Agents</p>
+                <p className="text-xl font-semibold text-amber-400">Revolutionizing Your Business with AI Agents</p>
                 <p className="mx-auto max-w-[700px] text-stone-200 md:text-xl">
                   Empower your business with cutting-edge AI technology. Our intelligent agents are designed to transform your operations and drive growth.
                 </p>
