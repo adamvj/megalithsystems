@@ -65,7 +65,7 @@ export default function Home() {
               <Card className="bg-stone-100 border-stone-300 transition-all duration-300 ease-in-out hover:scale-105 hover:shadow-lg">
                 <CardHeader>
                   <Cpu className="h-6 w-6 mb-2 text-amber-600" />
-                  <Link href="./advanced-ai-technology.txs">
+                  <Link href="/advanced-ai-technology">
                     <CardTitle className="text-stone-800">Advanced AI Technology</CardTitle>
                   </Link>
                 </CardHeader>
