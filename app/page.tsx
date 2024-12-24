@@ -46,7 +46,7 @@ export default function Home() {
                 <h1 className="text-4xl font-bold tracking-tighter sm:text-5xl md:text-6xl lg:text-7xl/none text-white">
                   Megalith Systems
                 </h1>
-                <p className="text-xl font-semibold text-amber-400">Revolutionizing Business with AI Agents</p>
+                <p className="text-xl font-semibold text-amber-400">Revolutionizing Your Business with AI Agents</p>
                 <p className="mx-auto max-w-[700px] text-stone-200 md:text-xl">
                   Empower your business with cutting-edge AI technology. Our intelligent agents are designed to transform your operations and drive growth.
                 </p>
@@ -65,7 +65,9 @@ export default function Home() {
               <Card className="bg-stone-100 border-stone-300 transition-all duration-300 ease-in-out hover:scale-105 hover:shadow-lg">
                 <CardHeader>
                   <Cpu className="h-6 w-6 mb-2 text-amber-600" />
-                  <CardTitle className="text-stone-800">Advanced AI Technology</CardTitle>
+                  <Link href="/advanced-ai-technology">
+                    <CardTitle className="text-stone-800">Advanced AI Technology</CardTitle>
+                  </Link>
                 </CardHeader>
                 <CardContent>
                   <p className="text-stone-600">Leverage state-of-the-art machine learning models for unparalleled performance.</p>
